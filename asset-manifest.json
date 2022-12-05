@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.9722d9f8.css",
-    "main.js": "/static/js/main.1c1418ae.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/fondo-1.jpg": "/static/media/fondo-1.ce29eee8e91246b0df18.jpg",
-    "static/media/logo.png": "/static/media/logo.cbd3f6cc52a596c8027b.png",
-    "static/media/natu3.jpg": "/static/media/natu3.fb8ea258b87ffafa8928.jpg",
-    "static/media/historia2.jpg": "/static/media/historia2.e72c03b91feb2d65092b.jpg",
-    "static/media/centro.jpg": "/static/media/centro.6f3b40cafe44b1defb05.jpg",
-    "static/media/natu4.jpg": "/static/media/natu4.719568763ca96faff423.jpg",
-    "static/media/historia4.jpg": "/static/media/historia4.0fa80805afe9adb9f7eb.jpg",
-    "static/media/historia1.jpg": "/static/media/historia1.670163cea26c9579f441.jpg",
-    "static/media/natu1.jpg": "/static/media/natu1.6c67ca892368b035915b.jpg",
-    "static/media/natu5.jpg": "/static/media/natu5.7fbf9744002fea94b051.jpg",
-    "static/media/natu6.jpg": "/static/media/natu6.0a825aac0a4fb408592c.jpg",
-    "static/media/historia3.jpg": "/static/media/historia3.5b43c6b48ec7a7732d5d.jpg",
-    "static/media/natu2.jpg": "/static/media/natu2.40cbd4686f299f5723cc.jpg",
-    "static/media/arte-2.jpg": "/static/media/arte-2.034f45ea11b346156762.jpg",
-    "static/media/arte-1.jpg": "/static/media/arte-1.4d14820bbf6dba51f535.jpg",
-    "index.html": "/index.html",
-    "main.9722d9f8.css.map": "/static/css/main.9722d9f8.css.map",
-    "main.1c1418ae.js.map": "/static/js/main.1c1418ae.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/my-app/static/css/main.9722d9f8.css",
+    "main.js": "/my-app/static/js/main.71aebd47.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fondo-1.jpg": "/my-app/static/media/fondo-1.ce29eee8e91246b0df18.jpg",
+    "static/media/logo.png": "/my-app/static/media/logo.cbd3f6cc52a596c8027b.png",
+    "static/media/natu3.jpg": "/my-app/static/media/natu3.fb8ea258b87ffafa8928.jpg",
+    "static/media/historia2.jpg": "/my-app/static/media/historia2.e72c03b91feb2d65092b.jpg",
+    "static/media/centro.jpg": "/my-app/static/media/centro.6f3b40cafe44b1defb05.jpg",
+    "static/media/natu4.jpg": "/my-app/static/media/natu4.719568763ca96faff423.jpg",
+    "static/media/historia4.jpg": "/my-app/static/media/historia4.0fa80805afe9adb9f7eb.jpg",
+    "static/media/historia1.jpg": "/my-app/static/media/historia1.670163cea26c9579f441.jpg",
+    "static/media/natu1.jpg": "/my-app/static/media/natu1.6c67ca892368b035915b.jpg",
+    "static/media/natu5.jpg": "/my-app/static/media/natu5.7fbf9744002fea94b051.jpg",
+    "static/media/natu6.jpg": "/my-app/static/media/natu6.0a825aac0a4fb408592c.jpg",
+    "static/media/historia3.jpg": "/my-app/static/media/historia3.5b43c6b48ec7a7732d5d.jpg",
+    "static/media/natu2.jpg": "/my-app/static/media/natu2.40cbd4686f299f5723cc.jpg",
+    "static/media/arte-2.jpg": "/my-app/static/media/arte-2.034f45ea11b346156762.jpg",
+    "static/media/arte-1.jpg": "/my-app/static/media/arte-1.4d14820bbf6dba51f535.jpg",
+    "index.html": "/my-app/index.html",
+    "main.9722d9f8.css.map": "/my-app/static/css/main.9722d9f8.css.map",
+    "main.71aebd47.js.map": "/my-app/static/js/main.71aebd47.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9722d9f8.css",
-    "static/js/main.1c1418ae.js"
+    "static/js/main.71aebd47.js"
   ]
 }
