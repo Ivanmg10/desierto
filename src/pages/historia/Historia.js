@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Historia = () => {
-    return
+    return (<h1>Historia</h1>)
 }
 
 export default Historia;
