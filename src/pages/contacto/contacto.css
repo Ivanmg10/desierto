@@ -1,0 +1,15 @@
+.main-contacto {
+    text-align: center;
+}
+
+.contacto-part {
+    text-align: left;
+}
+
+.main-contacto-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: row;
+}
