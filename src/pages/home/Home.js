@@ -9,7 +9,7 @@ const Home = () => {
     <div className='home-page'>
         <div className='left-part'>
             <div>
-            <h1>¡Bienvenido al Desierto de bolarque!</h1>
+            <h1>¡Bienvenido al Desierto de Bolarque!</h1>
             <p className='left-part-text'>Un paraje y conjunto monástico en ruinas situado cerca de Sayatón</p>
             </div>
         </div>

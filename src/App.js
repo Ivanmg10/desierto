@@ -17,13 +17,13 @@ function App() {
         <Sidebar />
         <div className='content'>
           <Routes>
-            <Route path="/" element={<Home />}/>
-            <Route path="/centro" element={<Centro />}/>
-            <Route path="/contacto" element={<Contacto />}/>
-            <Route path="/arte" element={<Desierto />}/>
-            <Route path="/historia" element={<Historia />}/>
-            <Route path="/planea" element={<Planea />}/>
-            <Route path="/naturaleza" element={<Naturaleza />}/>
+            <Route path="" element={<Home />}/>
+            <Route path="centro" element={<Centro />}/>
+            <Route path="contacto" element={<Contacto />}/>
+            <Route path="arte" element={<Desierto />}/>
+            <Route path="historia" element={<Historia />}/>
+            <Route path="planea" element={<Planea />}/>
+            <Route path="naturaleza" element={<Naturaleza />}/>
           </Routes>
         </div>
       </div>
