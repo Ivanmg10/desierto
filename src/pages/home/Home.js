@@ -12,8 +12,6 @@ const Home = () => {
             <h1>¡Bienvenido al Desierto de Bolarque!</h1>
             <p className='left-part-text'>Un paraje y conjunto monástico en ruinas situado cerca de Sayatón</p>
             </div>
-
-            asdasasasdasdas
         </div>
         <div className='rigth-part'>
             <img src={image} alt="" class="home-image"></img>
