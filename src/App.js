@@ -17,7 +17,7 @@ function App() {
         <Sidebar />
         <div className='content'>
           <Routes>
-            <Route path="" element={<Home />}/>
+            <Route path="/my-app" element={<Home />}/>
             <Route path="centro" element={<Centro />}/>
             <Route path="contacto" element={<Contacto />}/>
             <Route path="arte" element={<Desierto />}/>
