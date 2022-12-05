@@ -1,0 +1,22 @@
+.main-arte-1 {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-arte {
+    width: 80%;
+    text-align: left;
+}
+
+.main-arte-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-arte-2 > img {
+    width: 20%;
+    padding: 2em;
+}
