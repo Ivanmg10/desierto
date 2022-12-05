@@ -12,12 +12,12 @@ import Naturaleza from './pages/naturaleza/Naturaleza';
 
 function App() {
   return (
-    <BrowserRouter basename='/my-app'>
+    <BrowserRouter basename='/desierto'>
       <div className='App'>
         <Sidebar />
         <div className='content'>
           <Routes>
-            <Route exact path="/" element={<Home />}/>
+            <Route exact path="/desierto" element={<Home />}/>
             <Route path="/centro" element={<Centro />}/>
             <Route path="/contacto" element={<Contacto />}/>
             <Route path="/arte" element={<Desierto />}/>
