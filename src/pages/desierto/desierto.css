@@ -33,3 +33,17 @@
     width: 20%;
     padding: 2em;
 }
+
+
+.main-arte-4 {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+}
+
+.main-arte-4 > img {
+    width: 30%;
+    padding: 2em;
+}
+
