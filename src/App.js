@@ -20,7 +20,7 @@ function App() {
             <Route path="/" element={<Home />}/>
             <Route path="/centro" element={<Centro />}/>
             <Route path="/contacto" element={<Contacto />}/>
-            <Route path="/desierto" element={<Desierto />}/>
+            <Route path="/arte" element={<Desierto />}/>
             <Route path="/historia" element={<Historia />}/>
             <Route path="/planea" element={<Planea />}/>
             <Route path="/naturaleza" element={<Naturaleza />}/>

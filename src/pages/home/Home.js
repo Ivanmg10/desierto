@@ -10,7 +10,7 @@ const Home = () => {
         <div className='left-part'>
             <div>
             <h1>¡Bienvenido al Desierto de bolarque!</h1>
-            <p className='left-part-text'>Un paraje y conjunto monasterial en ruinas situado cerca de Sayatón</p>
+            <p className='left-part-text'>Un paraje y conjunto monástico en ruinas situado cerca de Sayatón</p>
             </div>
         </div>
         <div className='rigth-part'>

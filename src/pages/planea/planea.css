@@ -1,0 +1,66 @@
+.main-centro {
+    width: 90%;
+    text-align: left;
+}
+
+.main-separator {
+    width: 99%;
+}
+
+.main-planea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+}
+
+.main-horarios {
+    width: 50%;
+}
+
+.horarios {
+    width: 100%;
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.listado {
+    text-align: left;
+}
+
+.horarios-part {
+    width: 33.3%;
+}
+
+.horarios-part > hr {
+    width: 90%;
+}
+
+.main-entrada {
+    width: 50%;
+}
+
+.main-entrada-texto {
+    text-align: center;
+}
+
+.entradas {
+    text-align: center;
+    width: 90%;
+}
+
+.warning-desierto {
+    width: 90%;
+
+    background-color: #e46464;
+    border: 7px solid #d63031;
+    border-radius: 1em;
+}
+
+.main-normas {
+    width: 50%;
+    margin-top: 1em;
+    text-align: left;
+}
