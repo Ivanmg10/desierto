@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Sidebar from './components/sidebar/Sidebar';
+import Contacto from './pages/contacto/Contacto';
+import Desierto from './pages/desierto/Desierto';
+import Historia from './pages/historia/Historia';
+import Planea from './pages/planea/Planea';
+import Home from './pages/home/Home';
+import Centro from './pages/centro/Centro';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />}>
+          <Route path="/centro" element={<Centro />} />
+          <Route path="/contacto" element={<Contacto />} />
+          <Route path="/desierto" element={<Desierto />} />
+          <Route path="/historia" element={<Historia />} />
+          <Route path="/planea" element={<Planea />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
     </div>
   );
 }
