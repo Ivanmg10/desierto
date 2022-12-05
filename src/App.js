@@ -12,7 +12,7 @@ import Naturaleza from './pages/naturaleza/Naturaleza';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/my-app'>
       <div className='App'>
         <Sidebar />
         <div className='content'>
