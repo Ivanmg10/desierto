@@ -20,3 +20,16 @@
     width: 20%;
     padding: 2em;
 }
+
+
+.main-arte-3 {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+}
+
+.main-arte-3 > img {
+    width: 20%;
+    padding: 2em;
+}
