@@ -6,13 +6,13 @@ import { Link } from "react-router-dom";
 const Sidebar = () => {
     return (
         <nav id="main-nav" class="sidebar">
-            <a href="/historia" className='sidebar-link'>Historia</a>
-            <a href="/centro" className='sidebar-link'>Centro de Interpretación</a>
-            <a href="/naturaleza" className='sidebar-link'>Situación y naturaleza</a>
+            <Link to="/historia" className='sidebar-link'>Historia</Link>
+            <Link to="/centro" className='sidebar-link'>Centro de Interpretación</Link>
+            <Link to="/naturaleza" className='sidebar-link'>Situación y naturaleza</Link>
             <Link to="/"><img src={logo} alt="" class="logo"/></Link>
-            <a href="/arte" className='sidebar-link'>Arte</a>
-            <a href="/planea" className='sidebar-link'>Planea tu visita</a>
-            <a href="/contacto" className='sidebar-link'>Contacto</a>
+            <Link to="/Linkrte" className='sidebar-link'>Arte</Link>
+            <Link to="/planea" className='sidebar-link'>Planea tu visita</Link>
+            <Link to="/contacto" className='sidebar-link'>Contacto</Link>
         </nav>
     )
 }
